@@ -34,24 +34,6 @@
 - VS Code  
 - Postman
 
----
-
-## 📌 Projects
-- 🛒 **OneCart – AI Powered E-Commerce Website**  
-  - User Authentication  
-  - Admin Panel  
-  - Cart & Payment Integration  
-- 🤖 **DSA Chatbot** using Gemini API  
-- 💱 **Currency Converter Web App**
-
-
-
-
-## 📫 Connect With Me
-- 💼 LinkedIn: *(linkedin.com/in/aditya-kale-b1b956274/)*
-- 📧 Email: *(adityakale565@gmail.com)*
-
----
 
 ⭐ **Always learning, always building.**  
 🚀 **Open to internship opportunities**
