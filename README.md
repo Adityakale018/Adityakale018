@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Kale
 
-<!--
-**Adityakale018/Adityakale018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+💻 **Full-Stack Web Developer (MERN)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I'm a passionate developer who loves building **real-world web applications**
+- Strong interest in **Full-Stack Development & AI-powered systems**
+- Currently working on **MERN + Gemini API **
+- Preparing for **internships & campus placements**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript  
+- React.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js  
+- REST APIs
+
+**Database**
+- MongoDB, MySQL
+
+**AI / Tools**
+- Gemini API  
+
+**Other**
+- Git & GitHub  
+- VS Code  
+- Postman
+
+---
+
+## 📌 Projects
+- 🛒 **OneCart – AI Powered E-Commerce Website**  
+  - User Authentication  
+  - Admin Panel  
+  - Cart & Payment Integration  
+- 🤖 **DSA Chatbot** using Gemini API  
+- 💱 **Currency Converter Web App**
+
+
+
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(linkedin.com/in/aditya-kale-b1b956274/)*
+- 📧 Email: *(adityakale565@gmail.com)*
+
+---
+
+⭐ **Always learning, always building.**  
+🚀 **Open to internship opportunities**
+
